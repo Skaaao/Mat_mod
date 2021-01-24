@@ -1,2 +1,2 @@
 # CarController
-Tutorial project for car controller in Unity
+Student project for car controller in C# using Unity Engine
